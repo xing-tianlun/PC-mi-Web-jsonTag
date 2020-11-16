@@ -1,0 +1,209 @@
+.odiv {
+  width: 100%;
+  min-height: 500px;
+}
+
+.odiv .header {
+  width: 1126px;
+  margin: 0 auto;
+}
+
+.odiv .content {
+  width: 100%;
+  height: 588px;
+  background: url(../img/login1.jpg) no-repeat center top;
+}
+
+.odiv .content .con-con {
+  width: 1226px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.odiv .content .con-con .login {
+  width: 348px;
+  padding: 30px;
+  min-height: 200px;
+  background: #fff;
+  margin: 32px 0 0 770px;
+}
+
+.odiv .content .con-con .login .login-tab {
+  width: 100%;
+  margin-bottom: 24px;
+  font-size: 0;
+}
+
+.odiv .content .con-con .login .login-tab span {
+  display: inline-block;
+  font-size: 23px;
+  padding: 0 40px;
+  height: 25px;
+  line-height: 25px;
+  cursor: pointer;
+}
+
+.odiv .content .con-con .login .login-tab span:nth-child(1) {
+  border-right: 2px solid #e0e0e0;
+}
+
+.odiv .content .con-con .login .login-tab span.active {
+  color: #ff6801;
+}
+
+.odiv .content .con-con .login .login-con {
+  width: 100%;
+}
+
+.odiv .content .con-con .login .login-con input {
+  width: 100%;
+  height: 48px;
+  border: 1px solid #e0e0e0;
+  font-size: 12px;
+  margin-bottom: 14px;
+  text-indent: 15px;
+  outline: 0;
+}
+
+.odiv .content .con-con .login .login-con button {
+  width: 100%;
+  height: 50px;
+  font-size: 12px;
+  color: #fff;
+  background: #ff6801;
+  outline: 0;
+  border: none;
+  margin-bottom: 12px;
+}
+
+.odiv .content .con-con .login .login-con .phoneText {
+  font-size: 12px;
+  color: #ff6801;
+  text-align: center;
+  margin-bottom: 37px;
+}
+
+.odiv .content .con-con .login .login-con .enrollOrForget {
+  font-size: 0;
+  margin-bottom: 147px;
+  text-align: center;
+}
+
+.odiv .content .con-con .login .login-con .enrollOrForget a {
+  display: inline-block;
+  padding: 0 3px;
+  font-size: 14px;
+  line-height: 14px;
+  color: #989a99;
+}
+
+.odiv .content .con-con .login .login-con .enrollOrForget a:nth-child(1) {
+  border-right: 1px solid #e0e0e0;
+}
+
+.odiv .content .con-con .login .login-con .otherLogin {
+  width: 260px;
+  margin: 0 auto 13px;
+  overflow: hidden;
+}
+
+.odiv .content .con-con .login .login-con .otherLogin div {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  float: left;
+  margin: 0 17px;
+}
+
+.odiv .content .con-con .login .login-con .otherLogin div div {
+  margin: 0;
+}
+
+.odiv .content .con-con .login .login-con .otherLogin div[login=qq] {
+  background: #0288d1;
+}
+
+.odiv .content .con-con .login .login-con .otherLogin div[login=qq] div {
+  background: url(../img/login5.png) -26px 3px no-repeat;
+  background-size: 157px 23px;
+}
+
+.odiv .content .con-con .login .login-con .otherLogin div[login=wb] {
+  background: #d4302f;
+}
+
+.odiv .content .con-con .login .login-con .otherLogin div[login=wb] div {
+  background: url(../img/login5.png) -54px 3px no-repeat;
+  background-size: 157px 23px;
+}
+
+.odiv .content .con-con .login .login-con .otherLogin div[login=zfb] {
+  background: #00aaef;
+}
+
+.odiv .content .con-con .login .login-con .otherLogin div[login=zfb] div {
+  background: url(../img/login5.png) -66px 5px no-repeat;
+  background-size: 126px 19px;
+}
+
+.odiv .content .con-con .login .login-con .otherLogin div[login=wx] {
+  background: #00d10c;
+}
+
+.odiv .content .con-con .login .login-con .otherLogin div[login=wx] div {
+  background: url(../img/login5.png) -86px 7px no-repeat;
+  background-size: 113px 17px;
+}
+.odiv .content .con-con .login .login-con .sweepCode {
+  font-size: 14px;
+  margin: 168px 0 43px;
+  text-align: center;
+}
+.odiv .content .con-con .login .login-con .code {
+  margin: 0 auto;
+  text-align: center;
+}
+.odiv .content .con-con .login .login-con .openApp {
+  font-size: 14px;
+  color: #8d8d8d;
+  margin: 21px 0 6px;
+  text-align: center;
+}
+
+.odiv .content .con-con .login .login-con .openApp span {
+  color: #ff6801;
+}
+.odiv .content .con-con .login .login-con .miPhone {
+  font-size: 14px;
+  color: #8d8d8d;
+  text-align: center;
+}
+.odiv .footer {
+  width: 1126px;
+  min-height: 80px;
+  margin: 90px auto 10px;
+  text-align: center;
+}
+
+.odiv .footer p {
+  font-size: 12px;
+  line-height: 28px;
+  color: #757575;
+}
+
+.odiv .footer p span {
+  display: inline-block;
+  line-height: 12px;
+  padding: 0 10px;
+  border-right: 1px solid #989a99;
+}
+.odiv .footer p span.active {
+  color: #333;
+}
+.odiv .footer p span:hover {
+  color: #333;
+}
+
+.odiv .footer p span:last-child {
+  border-right: none;
+}

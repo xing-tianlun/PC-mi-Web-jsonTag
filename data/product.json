@@ -1,0 +1,1937 @@
+{
+  "toplist": {
+    "小米手机": [
+      {
+        "id": "toplist_1",
+        "pic": "rownav1.png",
+        "name": "小米10 青春版 5G",
+        "price": "2099元起"
+      },
+      {
+        "pic": "rownav2.png",
+        "name": "小米10 Pro",
+        "price": "4999元起"
+      },
+      {
+        "pic": "rownav3.png",
+        "name": "小米10",
+        "price": "3799元起"
+      },
+      {
+        "pic": "rownav4.png",
+        "name": "小米CC9",
+        "price": "1499元起"
+      },
+      {
+        "pic": "rownav5.png",
+        "name": "小米CC9e",
+        "price": "1299元"
+      },
+      {
+        "pic": "rownav6.png",
+        "name": "小米CC9 美图定制版",
+        "price": "1999元"
+      }
+    ],
+    "Redmi 红米": [
+      {
+        "pic": "rownav7.png",
+        "name": "Redmi 10X 4G",
+        "price": "999元起"
+      },
+      {
+        "pic": "rownav8.png",
+        "name": "Redmi 10X 5G 系列",
+        "price": "1599元起"
+      },
+      {
+        "pic": "rownav9.png",
+        "name": "Redmi K30 Pro",
+        "price": "2699元起"
+      },
+      {
+        "pic": "rownav10.png",
+        "name": "Redmi K30 Pro 变焦版",
+        "price": "3499元起"
+      },
+      {
+        "pic": "rownav11.png",
+        "name": "Redmi K30",
+        "price": "1499元起"
+      },
+      {
+        "pic": "rownav12.png",
+        "name": "Redmi K30 5G",
+        "price": "1899元起"
+      }
+    ],
+    "电视": [
+      {
+        "pic": "rownav13.png",
+        "name": "Redmi 智能电视 MAX 98\"",
+        "price": "19999元"
+      },
+      {
+        "pic": "rownav14.png",
+        "name": "小米电视4A 60英寸",
+        "price": "1899元"
+      },
+      {
+        "pic": "rownav15.png",
+        "name": "Redmi智能电视 X55",
+        "price": "2299元"
+      },
+      {
+        "pic": "rownav16.png",
+        "name": "Redmi 红米电视 70英寸 R70A",
+        "price": "2999元"
+      },
+      {
+        "pic": "rownav17.png",
+        "name": "小米壁画电视 65英寸",
+        "price": "6999元起"
+      },
+      {
+        "pic": "rownav18.png",
+        "name": "小米全面屏电视E55A",
+        "price": "1599元"
+      }
+    ],
+    "笔记本": [
+      {
+        "pic": "rownav19.png",
+        "name": "RedmiBook 16锐龙版",
+        "price": "3799元起"
+      },
+      {
+        "pic": "rownav20.png",
+        "name": "RedmiBook 14 Ⅱ 锐龙版 Pro",
+        "price": "3799元起"
+      },
+      {
+        "pic": "rownav21.png",
+        "name": "RedmiBook 13锐龙版",
+        "price": "3799元起"
+      },
+      {
+        "pic": "rownav22.png",
+        "name": "RedmiBook 13",
+        "price": "4499元起"
+      },
+      {
+        "pic": "rownav23.png",
+        "name": "小米笔记本Pro 15",
+        "price": "5899元起"
+      },
+      {
+        "pic": "rownav24.png",
+        "name": "RedmiBook 14",
+        "price": "4499元起"
+      }
+    ],
+    "家电": [
+      {
+        "pic": "rownav25.png",
+        "name": "米家互联网空调C1 (一级能效)",
+        "price": "2099元起"
+      },
+      {
+        "pic": "rownav26.png",
+        "name": "米家互联网空调(一级能效)",
+        "price": "2099元起"
+      },
+      {
+        "pic": "rownav27.png",
+        "name": "Redmi全自动波轮洗衣机1A",
+        "price": "749元起"
+      },
+      {
+        "pic": "rownav28.png",
+        "name": "米家互联网洗烘一体机10kg",
+        "price": "2099元起"
+      },
+      {
+        "pic": "rownav29.png",
+        "name": "米家风冷对开门冰箱483L",
+        "price": "2199元起"
+      },
+      {
+        "pic": "rownav30.png",
+        "name": "米家两门冰箱160L",
+        "price": "5929元"
+      }
+    ],
+    "路由器": [
+      {
+        "pic": "rownav31.png",
+        "name": "小米路由器AX1800",
+        "price": "329元"
+      },
+      {
+        "pic": "rownav32.png",
+        "name": "小米AIoT路由器AX3600",
+        "price": "599元"
+      },
+      {
+        "pic": "rownav33.png",
+        "name": "Redmi路由器AC2100",
+        "price": "169元"
+      },
+      {
+        "pic": "rownav34.png",
+        "name": "小米路由器AC2100",
+        "price": "229元"
+      },
+      {
+        "pic": "rownav35.png",
+        "name": "小米路由器Mesh",
+        "price": "999元"
+      },
+      {
+        "pic": "rownav36.png",
+        "name": "小米路由器4A千兆版",
+        "price": "129元"
+      }
+    ],
+    "智能硬件": [
+      {
+        "pic": "rownav37.png",
+        "name": "小米米家智能摄像机云台版",
+        "price": "179元起"
+      },
+      {
+        "pic": "rownav38.png",
+        "name": "小米小爱老师",
+        "price": "499元起"
+      },
+      {
+        "pic": "rownav39.png",
+        "name": "小米米家智能门锁",
+        "price": "1299元起"
+      },
+      {
+        "pic": "rownav40.png",
+        "name": "Redmi小爱触屏音箱 8",
+        "price": "349元"
+      },
+      {
+        "pic": "rownav41.png",
+        "name": "小米小爱触屏音箱",
+        "price": "199元起"
+      },
+      {
+        "pic": "rownav42.png",
+        "name": "Redmi小爱音箱 Play",
+        "price": "79元"
+      }
+    ]
+  },
+  "sidebar": {
+    "手机 电话卡": [
+      [
+        {
+          "pic": "sidebar1-1-1.png",
+          "name": "Redmi 10X 4G"
+        },
+        {
+          "pic": "sidebar1-1-2.png",
+          "name": "Redmi 10X 5G系列"
+        },
+        {
+          "pic": "sidebar1-1-3.png",
+          "name": "小米10青春版"
+        },
+        {
+          "pic": "sidebar1-1-4.png",
+          "name": "Redmi K30 Pro"
+        },
+        {
+          "pic": "sidebar1-1-5.png",
+          "name": "Redmi K30 Pro 变焦版"
+        },
+        {
+          "pic": "sidebar1-1-6.png",
+          "name": "腾讯黑鲨游戏手机3"
+        }
+      ],
+      [
+        {
+          "pic": "sidebar1-2-1.png",
+          "name": "腾讯黑鲨游戏手机3 Pro"
+        },
+        {
+          "pic": "sidebar1-2-2.png",
+          "name": "小米10 Pro"
+        },
+        {
+          "pic": "sidebar1-2-3.png",
+          "name": "小米10"
+        },
+        {
+          "pic": "sidebar1-2-4.png",
+          "name": "Redmi K30 Pro"
+        },
+        {
+          "pic": "sidebar1-2-5.png",
+          "name": "Redmi K30 4G"
+        },
+        {
+          "pic": "sidebar1-2-6.png",
+          "name": "Redmi K30 5G"
+        }
+      ],
+      [
+        {
+          "pic": "sidebar1-3-1.png",
+          "name": "Redmi 8"
+        },
+        {
+          "pic": "sidebar1-3-2.png",
+          "name": "小米MIX Alpha"
+        },
+        {
+          "pic": "sidebar1-3-3.png",
+          "name": "Redmi Note 8 Pro"
+        },
+        {
+          "pic": "sidebar1-3-4.png",
+          "name": "Redmi Note 8"
+        },
+        {
+          "pic": "sidebar1-3-5.png",
+          "name": "小米CC9"
+        },
+        {
+          "pic": "sidebar1-3-6.png",
+          "name": "小米CC9美图定制版"
+        }
+      ],
+      [
+        {
+          "pic": "sidebar1-4-1.png",
+          "name": "小米CC9e"
+        },
+        {
+          "pic": "sidebar1-4-2.png",
+          "name": "Redmi 7A"
+        },
+        {
+          "pic": "sidebar1-4-3.png",
+          "name": "移动4G+专区"
+        },
+        {
+          "pic": "sidebar1-4-4.png",
+          "name": "小米移动电话卡"
+        },
+        {
+          "pic": "sidebar1-4-5.png",
+          "name": "手机上门维修"
+        },
+        {
+          "pic": "sidebar1-4-6.png",
+          "name": "云服务空间月卡"
+        }
+      ]
+    ],
+    "电视 盒子": [
+      [
+        {
+          "pic": "sidebar2-1-1.png",
+          "name": "Redmi智能电视MAX 98\""
+        },
+        {
+          "pic": "sidebar2-1-2.png",
+          "name": "小米电视5 55英寸"
+        },
+        {
+          "pic": "sidebar2-1-3.png",
+          "name": "小米电视5 65英寸"
+        },
+        {
+          "pic": "sidebar2-1-4.png",
+          "name": "小米电视5 75英寸"
+        },
+        {
+          "pic": "sidebar2-1-5.png",
+          "name": "小米电视5 Pro 55英寸"
+        },
+        {
+          "pic": "sidebar2-1-6.png",
+          "name": "小米电视5 Pro 65英寸"
+        }
+      ],
+      [
+        {
+          "pic": "sidebar2-2-1.png",
+          "name": "小米电视5 Pro 65英寸"
+        },
+        {
+          "pic": "sidebar2-2-2.png",
+          "name": "小米电视5 Pro 75英寸"
+        },
+        {
+          "pic": "sidebar2-2-3.png",
+          "name": "全面屏电视Pro 65英寸"
+        },
+        {
+          "pic": "sidebar2-2-4.png",
+          "name": "全面屏电视Pro 55英寸"
+        },
+        {
+          "pic": "sidebar2-2-5.png",
+          "name": "小米壁画电视65英寸"
+        },
+        {
+          "pic": "sidebar2-2-6.png",
+          "name": "米全面屏电视"
+        }
+      ],
+      [
+        {
+          "pic": "sidebar2-3-1.png",
+          "name": "小米电视4A 32英寸"
+        },
+        {
+          "pic": "sidebar2-3-2.png",
+          "name": "小米电视4A 43英寸青春版"
+        },
+        {
+          "pic": "sidebar2-3-3.png",
+          "name": "小米电视4A 49英寸"
+        },
+        {
+          "pic": "sidebar2-3-4.png",
+          "name": "小米电视4A 50英寸"
+        },
+        {
+          "pic": "sidebar2-3-5.png",
+          "name": "小米电视4A 55英寸"
+        },
+        {
+          "pic": "sidebar2-3-6.png",
+          "name": "小米电视4A 58英寸"
+        }
+      ],
+      [
+        {
+          "pic": "sidebar2-4-1.png",
+          "name": "小米电视4A 65英寸"
+        },
+        {
+          "pic": "sidebar2-4-2.png",
+          "name": "小米电视4C 32英寸"
+        },
+        {
+          "pic": "sidebar2-4-3.png",
+          "name": "小米电视4C 40英寸"
+        },
+        {
+          "pic": "sidebar2-4-4.png",
+          "name": "小米电视4C 43英寸"
+        },
+        {
+          "pic": "sidebar2-4-5.png",
+          "name": "小米电视4C 50英寸"
+        },
+        {
+          "pic": "sidebar2-4-6.png",
+          "name": "小米电视4C 55英寸"
+        }
+      ]
+    ],
+    "笔记本 平板": [
+      [
+        {
+          "pic": "sidebar3-1-1.png",
+          "name": "RedmiBook 13"
+        },
+        {
+          "pic": "sidebar3-1-2.png",
+          "name": "小米笔记本 15.6"
+        },
+        {
+          "pic": "sidebar3-1-3.png",
+          "name": "小米笔记本 13.3\""
+        },
+        {
+          "pic": "sidebar3-1-4.png",
+          "name": "小米笔记本 12.5\""
+        },
+        {
+          "pic": "sidebar3-1-5.png",
+          "name": "RedmiBook 14"
+        },
+        {
+          "pic": "sidebar3-1-6.png",
+          "name": "小米游戏本"
+        }
+      ],
+      [
+        {
+          "pic": "sidebar3-2-1.png",
+          "name": "显示器"
+        },
+        {
+          "pic": "sidebar3-2-2.png",
+          "name": "小米平板4"
+        },
+        {
+          "pic": "sidebar3-2-3.png",
+          "name": "键鼠套装"
+        },
+        {
+          "pic": "sidebar3-2-4.png",
+          "name": "鼠标"
+        },
+        {
+          "pic": "sidebar3-2-5.png",
+          "name": "转接器"
+        },
+        {
+          "pic": "sidebar3-2-6.png",
+          "name": "平板配件"
+        }
+      ]
+    ],
+    "家电 插线板": [
+      [
+        {
+          "pic": "sidebar4-1-1.png",
+          "name": "冰箱"
+        },
+        {
+          "pic": "sidebar4-1-2.png",
+          "name": "立式空调"
+        },
+        {
+          "pic": "sidebar4-1-3.png",
+          "name": "壁挂空调"
+        },
+        {
+          "pic": "sidebar4-1-4.png",
+          "name": "滚筒洗衣机"
+        },
+        {
+          "pic": "sidebar4-1-5.png",
+          "name": "Redmi全自动波轮洗衣机"
+        },
+        {
+          "pic": "sidebar4-1-6.png",
+          "name": "净水器"
+        }
+      ],
+      [
+        {
+          "pic": "sidebar4-2-1.png",
+          "name": "微波炉"
+        },
+        {
+          "pic": "sidebar4-2-2.png",
+          "name": "电烤箱"
+        },
+        {
+          "pic": "sidebar4-2-3.png",
+          "name": "扫地机器人"
+        },
+        {
+          "pic": "sidebar4-2-4.png",
+          "name": "吸尘器"
+        },
+        {
+          "pic": "sidebar4-2-5.png",
+          "name": "空气净化器"
+        },
+        {
+          "pic": "sidebar4-2-6.png",
+          "name": "电饭煲"
+        }
+      ],
+      [
+        {
+          "pic": "sidebar4-3-1.png",
+          "name": "电磁炉"
+        },
+        {
+          "pic": "sidebar4-3-2.png",
+          "name": "电水壶"
+        },
+        {
+          "pic": "sidebar4-3-3.png",
+          "name": "滤水壶"
+        },
+        {
+          "pic": "sidebar4-3-4.png",
+          "name": "落地风扇"
+        },
+        {
+          "pic": "sidebar4-3-5.png",
+          "name": "投影仪"
+        },
+        {
+          "pic": "sidebar4-3-6.png",
+          "name": "灯具"
+        }
+      ],
+      [
+        {
+          "pic": "sidebar4-4-1.png",
+          "name": "插线板"
+        },
+        {
+          "pic": "sidebar4-4-2.png",
+          "name": "新风机"
+        },
+        {
+          "pic": "sidebar4-4-3.png",
+          "name": "电暖器"
+        },
+        {
+          "pic": "sidebar4-4-4.png",
+          "name": "电压力锅"
+        },
+        {
+          "pic": "sidebar4-4-5.png",
+          "name": "料理机"
+        },
+        {
+          "pic": "sidebar4-4-6.png",
+          "name": "电煮壶"
+        }
+      ]
+    ],
+    "出行 穿戴": [
+      [
+        {
+          "pic": "sidebar5-1-1.png",
+          "name": "小米手表"
+        },
+        {
+          "pic": "sidebar5-1-2.png",
+          "name": "手环手表"
+        },
+        {
+          "pic": "sidebar5-1-3.png",
+          "name": "VR"
+        },
+        {
+          "pic": "sidebar5-1-4.png",
+          "name": "平衡车"
+        },
+        {
+          "pic": "sidebar5-1-5.png",
+          "name": "滑板车"
+        },
+        {
+          "pic": "sidebar5-1-6.png",
+          "name": "自行车"
+        }
+      ],
+      [
+        {
+          "pic": "sidebar5-2-1.png",
+          "name": "车载充电器"
+        },
+        {
+          "pic": "sidebar5-2-2.png",
+          "name": "平衡车配件"
+        },
+        {
+          "pic": "sidebar5-2-3.png",
+          "name": "智能后视镜"
+        },
+        {
+          "pic": "sidebar5-2-4.png",
+          "name": "智能记录仪"
+        },
+        {
+          "pic": "sidebar5-2-5.png",
+          "name": "无线车充"
+        },
+        {
+          "pic": "sidebar5-2-6.png",
+          "name": "充气宝"
+        }
+      ],
+      [
+        {
+          "pic": "sidebar5-3-1.png",
+          "name": "平衡轮"
+        },
+        {
+          "pic": "sidebar5-3-2.png",
+          "name": "石英表"
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    ],
+    "智能 路由器": [
+      [
+        {
+          "pic": "sidebar6-1-1.png",
+          "name": "打印机"
+        },
+        {
+          "pic": "sidebar6-1-2.png",
+          "name": "喷墨打印机"
+        },
+        {
+          "pic": "sidebar6-1-3.png",
+          "name": "喷墨打印机墨水"
+        },
+        {
+          "pic": "sidebar6-1-4.png",
+          "name": "小米路由器"
+        },
+        {
+          "pic": "sidebar6-1-5.png",
+          "name": "智能家庭"
+        },
+        {
+          "pic": "sidebar6-1-6.png",
+          "name": "对讲机"
+        }
+      ],
+      [
+        {
+          "pic": "sidebar6-2-1.png",
+          "name": "摄像机"
+        },
+        {
+          "pic": "sidebar6-2-2.png",
+          "name": "照相机"
+        },
+        {
+          "pic": "sidebar6-2-3.png",
+          "name": "智能门锁"
+        },
+        {
+          "pic": "sidebar6-2-4.png",
+          "name": "视频门铃"
+        },
+        {
+          "pic": "sidebar6-2-5.png",
+          "name": "小爱老师"
+        },
+        {
+          "pic": "sidebar6-2-6.png",
+          "name": "Redmi路由器"
+        }
+      ],
+      [
+        {
+          "pic": "sidebar6-3-1.png",
+          "name": "小爱音箱"
+        },
+        {
+          "pic": "sidebar6-3-2.png",
+          "name": "云服务空间年卡"
+        },
+        {
+          "pic": "sidebar6-3-3.png",
+          "name": "云服务空间月卡"
+        },
+        {},
+        {},
+        {}
+      ]
+    ],
+    "电源 配件": [
+      [
+        {
+          "pic": "sidebar7-1-1.png",
+          "name": "移动电源"
+        },
+        {
+          "pic": "sidebar7-1-2.png",
+          "name": "数据线"
+        },
+        {
+          "pic": "sidebar7-1-3.png",
+          "name": "车充"
+        },
+        {
+          "pic": "sidebar7-1-4.png",
+          "name": "电器"
+        },
+        {
+          "pic": "sidebar7-1-5.png",
+          "name": "电池"
+        },
+        {
+          "pic": "sidebar7-1-6.png",
+          "name": "自拍杆"
+        }
+      ],
+      [
+        {
+          "pic": "sidebar7-2-1.png",
+          "name": "手机壳"
+        },
+        {
+          "pic": "sidebar7-2-2.png",
+          "name": "手机贴膜"
+        },
+        {
+          "pic": "sidebar7-2-3.png",
+          "name": "无线充电器"
+        },
+        {
+          "pic": "sidebar7-2-4.png",
+          "name": "平板配件"
+        },
+        {
+          "pic": "sidebar7-2-5.png",
+          "name": "黑鲨配件"
+        },
+        {
+          "pic": "sidebar7-2-6.png",
+          "name": "其他配件"
+        }
+      ]
+    ],
+    "健康 儿童": [
+      [
+        {
+          "pic": "sidebar8-1-1.png",
+          "name": "洗手机"
+        },
+        {
+          "pic": "sidebar8-1-2.png",
+          "name": "修剪器"
+        },
+        {
+          "pic": "sidebar8-1-3.png",
+          "name": "剃须刀"
+        },
+        {
+          "pic": "sidebar8-1-4.png",
+          "name": "牙刷"
+        },
+        {
+          "pic": "sidebar8-1-5.png",
+          "name": "吹风机"
+        },
+        {
+          "pic": "sidebar8-1-6.png",
+          "name": "体重秤"
+        }
+      ],
+      [
+        {
+          "pic": "sidebar8-2-1.png",
+          "name": "体脂秤"
+        },
+        {
+          "pic": "sidebar8-2-2.png",
+          "name": "早教启智"
+        },
+        {
+          "pic": "sidebar8-2-3.png",
+          "name": "遥控电动"
+        },
+        {
+          "pic": "sidebar8-2-4.png",
+          "name": "益智积木"
+        },
+        {
+          "pic": "sidebar8-2-5.png",
+          "name": "儿童手表"
+        },
+        {
+          "pic": "sidebar8-2-6.png",
+          "name": "儿童滑板车"
+        }
+      ],
+      [
+        {
+          "pic": "sidebar8-3-1.png",
+          "name": "婴儿推车"
+        },
+        {
+          "pic": "sidebar8-3-2.png",
+          "name": "儿童书包"
+        },
+        {
+          "pic": "sidebar8-3-3.png",
+          "name": "婴儿理发器"
+        },
+        {
+          "pic": "sidebar8-3-4.png",
+          "name": "儿童保温杯"
+        },
+        {
+          "pic": "sidebar8-3-5.png",
+          "name": "健身车"
+        },
+        {
+          "pic": "sidebar8-3-6.png",
+          "name": "走步机"
+        }
+      ],
+      [
+        {
+          "pic": "sidebar8-4-1.png",
+          "name": "点读笔"
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    ],
+    "耳机 音箱": [
+      [
+        {
+          "pic": "sidebar9-1-1.png",
+          "name": "Redmi小爱触屏音箱 8"
+        },
+        {
+          "pic": "sidebar9-1-2.png",
+          "name": "音箱Pro"
+        },
+        {
+          "pic": "sidebar9-1-3.png",
+          "name": "小爱音箱"
+        },
+        {
+          "pic": "sidebar9-1-4.png",
+          "name": "小爱触屏音箱"
+        },
+        {
+          "pic": "sidebar9-1-5.png",
+          "name": "Redmi音箱"
+        },
+        {
+          "pic": "sidebar9-1-6.png",
+          "name": "小米小爱音箱 Play版"
+        }
+      ],
+      [
+        {
+          "pic": "sidebar9-2-1.png",
+          "name": "线控耳机"
+        },
+        {
+          "pic": "sidebar9-2-2.png",
+          "name": "蓝牙耳机"
+        },
+        {
+          "pic": "sidebar9-2-3.png",
+          "name": "头戴耳机"
+        },
+        {
+          "pic": "sidebar9-2-4.png",
+          "name": "品牌耳机"
+        },
+        {
+          "pic": "sidebar9-2-5.png",
+          "name": "蓝牙音箱"
+        },
+        {
+          "pic": "sidebar9-2-6.png",
+          "name": "小米AI音箱"
+        }
+      ],
+      [
+        {
+          "pic": "sidebar9-3-1.png",
+          "name": "小米小爱音箱HD"
+        },
+        {
+          "pic": "sidebar9-3-2.png",
+          "name": "k歌耳机"
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    ],
+    "生活 箱包": [
+      [
+        {
+          "pic": "sidebar10-1-1.png",
+          "name": "小背包"
+        },
+        {
+          "pic": "sidebar10-1-2.png",
+          "name": "双肩包"
+        },
+        {
+          "pic": "sidebar10-1-3.png",
+          "name": "胸包"
+        },
+        {
+          "pic": "sidebar10-1-4.png",
+          "name": "旅行箱"
+        },
+        {
+          "pic": "sidebar10-1-5.png",
+          "name": "运动鞋"
+        },
+        {
+          "pic": "sidebar10-1-6.png",
+          "name": "眼镜"
+        }
+      ],
+      [
+        {
+          "pic": "sidebar10-2-1.png",
+          "name": "床垫"
+        },
+        {
+          "pic": "sidebar10-2-2.png",
+          "name": "枕头"
+        },
+        {
+          "pic": "sidebar10-2-3.png",
+          "name": "饰品"
+        },
+        {
+          "pic": "sidebar10-2-4.png",
+          "name": "螺丝刀"
+        },
+        {
+          "pic": "sidebar10-2-5.png",
+          "name": "保温杯"
+        },
+        {
+          "pic": "sidebar10-2-6.png",
+          "name": "伞"
+        }
+      ],
+      [
+        {
+          "pic": "sidebar10-3-1.png",
+          "name": "驱蚊器"
+        },
+        {
+          "pic": "sidebar10-3-2.png",
+          "name": "尤克里里"
+        },
+        {
+          "pic": "sidebar10-3-3.png",
+          "name": "毛巾/浴巾"
+        },
+        {
+          "pic": "sidebar10-3-4.png",
+          "name": "米兔"
+        },
+        {
+          "pic": "sidebar10-3-5.png",
+          "name": "笔"
+        },
+        {}
+      ]
+    ]
+  },
+  "flashbuy": {
+    "list": [
+      [
+        {
+          "pic": "long1.png",
+          "name": "MIJOY 抽纸青春版 24包/箱",
+          "describe": "精选原生竹浆，健康环保",
+          "price": "27.9",
+          "oldPrice": "32.9"
+        },
+        {
+          "pic": "long2.png",
+          "name": "小米米家智能门锁 标准碳素黑",
+          "describe": "小米米家智能门锁 标准碳素黑",
+          "price": "1099",
+          "oldPrice": "1299"
+        },
+        {
+          "pic": "long3.png",
+          "name": "空调（1.5匹/一级能效）",
+          "describe": "变频节能，高效制冷热",
+          "price": "1999",
+          "oldPrice": "2699"
+        },
+        {
+          "pic": "long4.png",
+          "name": "德尔玛多功能蒸汽清洁机 多功能蒸汽清洁机",
+          "describe": "一机5种用法，包揽全屋清洁",
+          "price": "349",
+          "oldPrice": "399"
+        }
+      ],
+      [
+        {
+          "pic": "long1.png",
+          "name": "MIJOY 抽纸青春版 24包/箱",
+          "describe": "精选原生竹浆，健康环保",
+          "price": "27.9",
+          "oldPrice": "32.9"
+        },
+        {
+          "pic": "long2.png",
+          "name": "小米米家智能门锁 标准碳素黑",
+          "describe": "小米米家智能门锁 标准碳素黑",
+          "price": "1099",
+          "oldPrice": "1299"
+        },
+        {
+          "pic": "long3.png",
+          "name": "空调（1.5匹/一级能效）",
+          "describe": "变频节能，高效制冷热",
+          "price": "1999",
+          "oldPrice": "2699"
+        },
+        {
+          "pic": "long4.png",
+          "name": "德尔玛多功能蒸汽清洁机 多功能蒸汽清洁机",
+          "describe": "一机5种用法，包揽全屋清洁",
+          "price": "349",
+          "oldPrice": "399"
+        }
+      ],
+      [
+        {
+          "pic": "long1.png",
+          "name": "MIJOY 抽纸青春版 24包/箱",
+          "describe": "精选原生竹浆，健康环保",
+          "price": "27.9",
+          "oldPrice": "32.9"
+        },
+        {
+          "pic": "long2.png",
+          "name": "小米米家智能门锁 标准碳素黑",
+          "describe": "小米米家智能门锁 标准碳素黑",
+          "price": "1099",
+          "oldPrice": "1299"
+        },
+        {
+          "pic": "long3.png",
+          "name": "空调（1.5匹/一级能效）",
+          "describe": "变频节能，高效制冷热",
+          "price": "1999",
+          "oldPrice": "2699"
+        },
+        {
+          "pic": "long4.png",
+          "name": "德尔玛多功能蒸汽清洁机 多功能蒸汽清洁机",
+          "describe": "一机5种用法，包揽全屋清洁",
+          "price": "349",
+          "oldPrice": "399"
+        }
+      ],
+      [
+        {
+          "pic": "long1.png",
+          "name": "MIJOY 抽纸青春版 24包/箱",
+          "describe": "精选原生竹浆，健康环保",
+          "price": "27.9",
+          "oldPrice": "32.9"
+        },
+        {
+          "pic": "long2.png",
+          "name": "小米米家智能门锁 标准碳素黑",
+          "describe": "小米米家智能门锁 标准碳素黑",
+          "price": "1099",
+          "oldPrice": "1299"
+        },
+        {
+          "pic": "long3.png",
+          "name": "空调（1.5匹/一级能效）",
+          "describe": "变频节能，高效制冷热",
+          "price": "1999",
+          "oldPrice": "2699"
+        },
+        {
+          "pic": "long4.png",
+          "name": "德尔玛多功能蒸汽清洁机 多功能蒸汽清洁机",
+          "describe": "一机5种用法，包揽全屋清洁",
+          "price": "349",
+          "oldPrice": "399"
+        }
+      ]
+    ]
+  },
+  "phoneList": [
+    {
+      "pic": "goods1-1.png",
+      "name": "Redmi 红米电视 70英寸",
+      "describe": "70英寸震撼巨屏，4K画质，细腻如真",
+      "price": "2099元起"
+    },
+    {
+      "pic": "goods1-2.png",
+      "name": "Redmi 红米电视 70英寸",
+      "describe": "70英寸震撼巨屏，4K画质，细腻如真",
+      "price": "2099元起"
+    },
+    {
+      "pic": "goods1-3.png",
+      "name": "Redmi 红米电视 70英寸",
+      "describe": "70英寸震撼巨屏，4K画质，细腻如真",
+      "price": "2099元起"
+    },
+    {
+      "pic": "goods1-4.png",
+      "name": "Redmi 红米电视 70英寸",
+      "describe": "70英寸震撼巨屏，4K画质，细腻如真",
+      "price": "2099元起"
+    },
+    {
+      "pic": "goods1-5.png",
+      "name": "Redmi 红米电视 70英寸",
+      "describe": "70英寸震撼巨屏，4K画质，细腻如真",
+      "price": "2099元起"
+    },
+    {
+      "pic": "goods1-6.png",
+      "name": "Redmi 红米电视 70英寸",
+      "describe": "70英寸震撼巨屏，4K画质，细腻如真",
+      "price": "2099元起",
+      "oldPrice": "3799元"
+    },
+    {
+      "pic": "goods1-7.png",
+      "name": "Redmi 红米电视 70英寸",
+      "describe": "70英寸震撼巨屏，4K画质，细腻如真",
+      "price": "2099元起"
+    },
+    {
+      "pic": "goods1-8.png",
+      "name": "Redmi 红米电视 70英寸",
+      "describe": "70英寸震撼巨屏，4K画质，细腻如真",
+      "price": "2099元起",
+      "oldPrice": "3799元"
+    }
+  ],
+  "tower": {
+    "appliances": {
+      "home-banner-box": "homebanner2.png",
+      "title": "家电",
+      "tabList": ["电视影音"],
+      "tier": 0,
+      "sidebarpic1": "towerHeadimg2.png",
+      "sidebarpic2": "towerHeadimg3.png"
+    },
+    "capacity": {
+      "home-banner-box": "homebanner3.png",
+      "title": "智能",
+      "tabList": ["安防", "出行"],
+      "tier": 1,
+      "sidebarpic1": "towerHeadimg4.png",
+      "sidebarpic2": "towerHeadimg5.png"
+    },
+    "match": {
+      "home-banner-box": "homebanner4.png",
+      "title": "搭配",
+      "tabList": ["耳机音箱"],
+      "tier": 2,
+      "sidebarpic1": "towerHeadimg6.png",
+      "sidebarpic2": "towerHeadimg7.png"
+    },
+    "accessories": {
+      "home-banner-box": "homebanner5.png",
+      "title": "配件",
+      "tabList": ["保护套", "充电器"],
+      "tier": 3,
+      "sidebarpic1": "towerHeadimg8.png",
+      "sidebarpic2": "towerHeadimg9.png"
+    },
+    "rim": {
+      "home-banner-box": "homebanner6.png",
+      "title": "周边",
+      "tabList": ["出行"],
+      "tier": 4,
+      "sidebarpic1": "towerHeadimg10.png",
+      "sidebarpic2": "towerHeadimg11.png"
+    }
+  },
+  "productList": {
+    "appliances": [
+      [
+        {
+          "pic": "goods2-1.png",
+          "name": "Redmi 红米电视 70英寸",
+          "describe": "70英寸震撼巨屏，4K画质，细腻如真",
+          "price": "2099元起",
+          "oldPrice": "3799元"
+        },
+        {
+          "pic": "goods2-2.png",
+          "name": "小米全面屏电视E32C",
+          "describe": "全面屏设计，人工智能系统",
+          "price": "699元",
+          "oldPrice": "899元"
+        },
+        {
+          "pic": "goods2-3.png",
+          "name": "小米全面屏电视E55A",
+          "describe": "全面屏设计，人工智能语音",
+          "price": "1599元",
+          "oldPrice": "1999元"
+        },
+        {
+          "pic": "goods2-4.png",
+          "name": "米家空调",
+          "describe": "出众静音，快速制冷热",
+          "price": "1499元",
+          "oldPrice": "1799元"
+        },
+        {
+          "pic": "goods2-5.png",
+          "name": "米家互联网洗烘一体机 Pro 10kg",
+          "describe": "智能洗烘，省心省力",
+          "price": "1999元"
+        },
+        {
+          "pic": "goods2-6.png",
+          "name": "Redmi全自动波轮洗衣机1A 8kg",
+          "describe": "一键操作，父母都爱用",
+          "price": "749元",
+          "oldPrice": "899元"
+        },
+        {
+          "pic": "goods2-7.png",
+          "name": "15.6\" 四核i7 16G 独显 512G",
+          "describe": "全面均衡的国民轻薄本",
+          "price": "4899元"
+        },
+        {
+          "pic": "goods2-8.png",
+          "name": "Air 13.3\" 2019<br />款",
+          "price": "5699元起",
+          "last": true
+        }
+      ],
+      [
+        {
+          "pic": "goods2-9.png",
+          "name": "小米电视4C 32英寸",
+          "describe": "高清液晶屏，人工智能系统",
+          "price": "599元",
+          "oldPrice": "799元"
+        },
+        {
+          "pic": "goods2-10.png",
+          "name": "全面屏电视 55英寸E55X",
+          "describe": "潮流全面屏设计",
+          "price": "1599元",
+          "oldPrice": "1999元"
+        },
+        {
+          "pic": "goods2-11.png",
+          "name": "小米10 青春版 5G",
+          "describe": "50倍潜望式变焦/轻薄5G手机",
+          "price": "2099元起"
+        },
+        {
+          "pic": "goods2-12.png",
+          "name": "小米电视4C 43英寸",
+          "describe": "FHD全高清屏，钢琴烤漆",
+          "price": "988元",
+          "oldPrice": "1399元"
+        },
+        {
+          "pic": "goods2-13.png",
+          "name": "小米电视4S 75英寸",
+          "describe": "4K HDR，人工智能语音",
+          "price": "3799元",
+          "oldPrice": "5999元"
+        },
+        {
+          "pic": "goods2-14.png",
+          "name": "小米全面屏电视65英寸 E65C",
+          "describe": "震撼大屏，时尚全面屏",
+          "price": "2399元",
+          "oldPrice": "3099元"
+        },
+        {
+          "pic": "goods2-15.png",
+          "name": "小米全面屏电视E32C",
+          "describe": "全面屏设计，人工智能系统",
+          "price": "699元",
+          "oldPrice": "899元"
+        },
+        {
+          "pic": "goods2-16.png",
+          "name": "小米壁画电视<br />65英寸",
+          "price": "6999元",
+          "last": true
+        }
+      ]
+    ],
+    "capacity": [
+      [
+        {
+          "pic": "goods3-1.png",
+          "name": "小米「小爱老师」",
+          "describe": "英语提分神器",
+          "price": "499元起"
+        },
+        {
+          "pic": "goods3-2.png",
+          "name": "小米米家智能门锁 推拉式",
+          "describe": "一步推拉，高端智能门锁",
+          "price": "1699元"
+        },
+        {
+          "pic": "goods3-3.png",
+          "name": "小米小爱音箱Play",
+          "describe": "听音乐、语音遥控家电",
+          "price": "99元",
+          "oldPrice": "169元"
+        },
+        {
+          "pic": "goods3-4.png",
+          "name": "小爱音箱万能遥控版",
+          "describe": "传统家电秒变智能",
+          "price": "149元",
+          "oldPrice": "199元"
+        },
+        {
+          "pic": "goods3-5.png",
+          "name": "米家电饭煲4L",
+          "describe": "890W 立体加热",
+          "price": "269元",
+          "oldPrice": "299元"
+        },
+        {
+          "pic": "goods3-6.png",
+          "name": "小米手坏4",
+          "describe": "大屏彩显，20天超长续航",
+          "price": "169元"
+        },
+        {
+          "pic": "goods3-7.png",
+          "name": "米体脂秤2米家",
+          "describe": "轻松掌握身体脂肪率",
+          "price": "99元"
+        },
+        {
+          "pic": "goods3-8.png",
+          "name": "九号平衡车",
+          "price": "1999元起",
+          "last": true
+        }
+      ],
+      [
+        {
+          "pic": "goods3-9.png",
+          "name": "米家智能门锁 标准锁体 碳素黑",
+          "describe": "一体化活体指纹识别，多种开锁方式",
+          "price": "1299元"
+        },
+        {
+          "pic": "goods3-10.png",
+          "name": "米家智能门锁 标准锁体 磨砂金",
+          "describe": "全新磨砂金配色，精湛工艺升级",
+          "price": "1499元"
+        },
+        {
+          "pic": "goods3-11.png",
+          "name": "米家智能门锁 推拉式 通用版",
+          "describe": "一步推拉，高端智能门锁",
+          "price": "1699元"
+        },
+        {
+          "pic": "goods3-12.png",
+          "name": "米家智能门锁 青春版",
+          "describe": "隐形指纹识别设计 简单一步快进家门",
+          "price": "999元"
+        },
+        {
+          "pic": "goods3-13.png",
+          "name": "米家智能门锁 霸王锁体 碳素黑",
+          "describe": "一体化活体指纹识别，多种开锁方式",
+          "price": "1599元"
+        },
+        {
+          "pic": "goods3-14.png",
+          "name": "米家智能门锁 霸王锁体 磨砂金",
+          "describe": "适配霸王锁体，多种开锁方式",
+          "price": "1799元"
+        },
+        {
+          "pic": "goods3-15.png",
+          "name": "小米米家小白智能摄像机增强版",
+          "describe": "智能看护， AI你所爱",
+          "price": "349元",
+          "oldPrice": "399元"
+        },
+        {
+          "pic": "goods3-16.png",
+          "name": "小米米家智能<br />摄像机云台版",
+          "price": "189元",
+          "last": true
+        }
+      ],
+      [
+        {
+          "pic": "goods3-17.png",
+          "name": "小米米家电动滑板车",
+          "describe": "便携折叠，自由穿行",
+          "price": "1849元",
+          "oldPrice": "1999元"
+        },
+        {
+          "pic": "goods3-18.png",
+          "name": "米兔折叠婴儿推车",
+          "describe": "出发去向往的地方",
+          "price": "629元",
+          "oldPrice": "699元"
+        },
+        {
+          "pic": "goods3-19.png",
+          "name": "九号平衡车 Plus",
+          "describe": "一个形影不离的新伙伴",
+          "price": "3499元"
+        },
+        {
+          "pic": "goods3-20.png",
+          "name": "米家充气宝",
+          "describe": "便携电动打气筒",
+          "price": "199元"
+        },
+        {
+          "pic": "goods3-21.png",
+          "name": "小米小背包",
+          "describe": "城市休闲，简约设计",
+          "price": "24.9元起"
+        },
+        {
+          "pic": "goods3-22.png",
+          "name": "小米旅行箱 青春款",
+          "describe": "环保材料，轻便重量",
+          "price": "199元起"
+        },
+        {
+          "pic": "goods3-23.png",
+          "name": "骑记电动助力自行车 新国标版 ...",
+          "describe": "更多助力选择，更多城市风景",
+          "price": "2999元"
+        },
+        {
+          "pic": "goods3-24.png",
+          "name": "小米米家对讲<br />机2",
+          "price": "499元",
+          "last": true
+        }
+      ]
+    ],
+    "match": [
+      [
+        {
+          "pic": "goods4-1.png",
+          "name": "小米真无线蓝牙耳机 Air 2",
+          "describe": "智能真无线，轻松舒适戴",
+          "price": "369元起",
+          "oldPrice": "399元起"
+        },
+        {
+          "pic": "goods4-2.png",
+          "name": "高速无线充套装",
+          "describe": "快速无线闪充，Qi充电标准",
+          "price": "149元"
+        },
+        {
+          "pic": "goods4-3.png",
+          "name": "Redmi充电宝 10000mAh 标准版...",
+          "describe": "听音乐、语音遥控家电",
+          "price": "59元"
+        },
+        {
+          "pic": "goods4-4.png",
+          "name": "Redmi充电宝 20000mAh 快充版",
+          "describe": "大容量，可上飞机",
+          "price": "99元"
+        },
+        {
+          "pic": "goods4-5.png",
+          "name": "小米插线板 5孔位",
+          "describe": "多重安全保护",
+          "price": "39元"
+        },
+        {
+          "pic": "goods4-6.png",
+          "name": "小米蓝牙耳机AirDots青春版",
+          "describe": "雅致简约，收纳充电盒",
+          "price": "199元"
+        },
+        {
+          "pic": "goods4-7.png",
+          "name": "小米小爱蓝牙音箱 随身版",
+          "describe": "小巧便携，一键唤醒小爱",
+          "price": "39元",
+          "oldPrice": "49元"
+        },
+        {
+          "pic": "goods4-8.png",
+          "name": "小米小爱触屏<br />音箱",
+          "price": "199元起",
+          "last": true
+        }
+      ],
+      [
+        {
+          "pic": "goods4-9.png",
+          "name": "小米真无线蓝牙耳机 Air 2",
+          "describe": "智能真无线，轻松舒适戴",
+          "price": "369元",
+          "oldPrice": "399元"
+        },
+        {
+          "pic": "goods4-10.png",
+          "name": "小米降噪项圈蓝牙耳机",
+          "describe": "无线降噪，静无止境",
+          "price": "469元",
+          "oldPrice": "499元"
+        },
+        {
+          "pic": "goods4-11.png",
+          "name": "小米蓝牙耳机AirDots青春版",
+          "describe": "雅致简约，收纳充电盒",
+          "price": "199元"
+        },
+        {
+          "pic": "goods4-12.png",
+          "name": "小米小爱音箱 Pro",
+          "describe": "语音遥控5000+品牌主流家电",
+          "price": "299元"
+        },
+        {
+          "pic": "goods4-13.png",
+          "name": "小米运动蓝牙耳机青春版",
+          "describe": "音随你动",
+          "price": "99元"
+        },
+        {
+          "pic": "goods4-14.png",
+          "name": "小米蓝牙项圈耳机",
+          "describe": "挂在脖子上的好耳机",
+          "price": "269元",
+          "oldPrice": "299元"
+        },
+        {
+          "pic": "goods4-15.png",
+          "name": "小米双单元半入耳式耳机",
+          "describe": "半入耳式舒适佩戴",
+          "price": "59元",
+          "oldPrice": "69元"
+        },
+        {
+          "pic": "goods4-16.png",
+          "name": "小米随身蓝牙<br />音箱",
+          "price": "69元",
+          "last": true
+        }
+      ]
+    ],
+    "accessories": [
+      [
+        {
+          "pic": "goods5-1.png",
+          "name": "小米USB充电器30W快充版（1A1C）",
+          "describe": "多一种接口，多一种选择",
+          "price": "59元起"
+        },
+        {
+          "pic": "goods5-2.png",
+          "name": "高速无线充套装",
+          "describe": "快速无线闪充，Qi充电标准",
+          "price": "149元"
+        },
+        {
+          "pic": "goods5-3.png",
+          "name": "小米无线充电宝青春版10000mAh",
+          "describe": "能量满满，无线有线都能充",
+          "price": "129元"
+        },
+        {
+          "pic": "goods5-4.png",
+          "name": "米家LED随身灯",
+          "describe": "小巧轻便 5级亮度调节",
+          "price": "19.9元"
+        },
+        {
+          "pic": "goods5-5.png",
+          "name": "移动电源高配版（10000mAh）",
+          "describe": "轻薄设计，轻松出行",
+          "price": "149元"
+        },
+        {
+          "pic": "goods5-6.png",
+          "name": "小米二合一数据线100cm",
+          "describe": "支持快充，安全保护",
+          "price": "24.9元"
+        },
+        {
+          "pic": "goods5-7.png",
+          "name": "小米真无线蓝牙耳机 Air 2",
+          "describe": "智能真无线，轻松舒适戴",
+          "price": "369元",
+          "oldPrice": "399元"
+        },
+        {
+          "pic": "goods5-8.png",
+          "name": "小米CC9e高<br />透果冻保护壳",
+          "price": "49起",
+          "last": true
+        }
+      ],
+      [
+        {
+          "pic": "goods5-9.png",
+          "name": "小米CC9&小米CC9美图定制版 标准高透贴膜",
+          "describe": "高清透亮，耐磨性强",
+          "price": "19元"
+        },
+        {
+          "pic": "goods5-10.png",
+          "name": "小米CC9e 标准高透贴膜",
+          "describe": "高清透亮，耐磨性强",
+          "price": "19元"
+        },
+        {
+          "pic": "goods5-11.png",
+          "name": "Redmi 7A标准高透贴膜",
+          "describe": "高清高透，精彩清晰可见",
+          "price": "19元"
+        },
+        {
+          "pic": "goods5-12.png",
+          "name": "小仙女心愿手链保护壳",
+          "describe": "手链绕于指尖，仙气满满",
+          "price": "199元"
+        },
+        {
+          "pic": "goods5-13.png",
+          "name": "小米CC9 荧光色高透果冻保护壳",
+          "describe": "玩转多彩青春色",
+          "price": "49元"
+        },
+        {
+          "pic": "goods5-14.png",
+          "name": "小米9 ARE U OK保护壳",
+          "describe": "一个与众不同的保护壳",
+          "price": "39元"
+        }
+      ],
+      [
+        {
+          "pic": "goods5-17.png",
+          "name": "小米USB充电器30W快充版（1A1C）",
+          "describe": "多一种接口，多一种选择",
+          "price": "59元"
+        },
+        {
+          "pic": "goods5-18.png",
+          "name": "小米USB充电器快充版（18W）",
+          "describe": "安卓、苹果设备均可使用",
+          "price": "29.9元"
+        },
+        {
+          "pic": "goods5-19.png",
+          "name": "小米USB充电器60W快充版（6口）",
+          "describe": "6口输出，USB-C输出接口",
+          "price": "129元"
+        },
+        {
+          "pic": "goods5-20.png",
+          "name": "小米USB充电器36W快充版（2口）",
+          "describe": "多重安全保护，小巧便携",
+          "price": "59元"
+        },
+        {
+          "pic": "goods5-21.png",
+          "name": "小米车载充电器快充版",
+          "describe": "让爱车成为移动充电站",
+          "price": "69元起"
+        },
+        {
+          "pic": "goods5-22.png",
+          "name": "小米车载充电器快充版（37W）",
+          "describe": "一个设备多种用途",
+          "price": "49元起"
+        },
+        {
+          "pic": "goods5-23.png",
+          "name": "小米二合一移动电源（充电器）",
+          "describe": "一个设备多种用途",
+          "price": "99元"
+        },
+        {
+          "last": true
+        }
+      ]
+    ],
+    "rim": [
+      [
+        {
+          "pic": "goods6-1.png",
+          "name": "米家飞行员太阳镜 Pro",
+          "describe": "尼龙偏光，轻巧佩戴",
+          "price": "189元",
+          "oldPrice": "199元"
+        },
+        {
+          "pic": "goods6-2.png",
+          "name": "小米巨能写中性笔10支装",
+          "describe": "一支顶4支，超长顺滑书写",
+          "price": "9.99元"
+        },
+        {
+          "pic": "goods6-3.png",
+          "name": "小米旅行箱 20英寸 布朗熊限量版",
+          "describe": "“国际巨星” LINE FRIENDS布朗熊",
+          "price": "279元",
+          "oldPrice": "399元"
+        },
+        {
+          "pic": "goods6-4.png",
+          "name": "米家迷你保温杯",
+          "describe": "可以随身携带的温度",
+          "price": "149元",
+          "oldPrice": "199元"
+        },
+        {
+          "pic": "goods6-5.png",
+          "name": "米家驱蚊器基础版 3个装",
+          "describe": "3个装 长效驱蚊",
+          "price": "129元"
+        },
+        {
+          "pic": "goods6-6.png",
+          "name": "3卷装抽绳式垃圾袋",
+          "describe": "让清洁更简单",
+          "price": "9.9元",
+          "oldPrice": "14.9元"
+        },
+        {
+          "pic": "goods6-7.png",
+          "name": "贝医生巴氏牙刷 四色装",
+          "describe": "进口刷毛，好品质",
+          "price": "39.9元"
+        },
+        {
+          "pic": "goods6-8.png",
+          "name": "8H 乳胶弹簧静<br />音床垫 M3",
+          "price": "1499元起",
+          "last": true
+        }
+      ],
+      [
+        {
+          "pic": "goods6-9.png",
+          "name": "90分框体旅行箱",
+          "describe": "专利轻量合金中框，轻盈坚固",
+          "price": "399元",
+          "oldPrice": "599元"
+        },
+        {
+          "pic": "goods6-10.png",
+          "name": "小米商旅多功能双肩包 2",
+          "describe": "商务旅行多场景，切换无压力",
+          "price": "169元",
+          "oldPrice": "199元"
+        },
+        {
+          "pic": "goods6-11.png",
+          "name": "米家飞行员太阳镜 Pro",
+          "describe": "尼龙偏光，轻巧佩戴",
+          "price": "189元",
+          "oldPrice": "199元"
+        },
+        {
+          "pic": "goods6-12.png",
+          "name": "自动折叠伞",
+          "describe": "防泼水伞布，轻盈拒水",
+          "price": "89元",
+          "oldPrice": "99元"
+        },
+        {
+          "pic": "goods6-13.png",
+          "name": "最生活毛巾•青春系列",
+          "describe": "3秒吸水，杀菌无刺激",
+          "price": "19.9元"
+        },
+        {
+          "pic": "goods6-14.png",
+          "name": "九号平衡车",
+          "describe": "年轻人的酷玩具",
+          "price": "1999元"
+        },
+        {
+          "pic": "goods6-15.png",
+          "name": "小米米家电动滑板车Pro",
+          "describe": "性能提升，动力更强劲",
+          "price": "279元"
+        },
+        {
+          "pic": "goods6-16.png",
+          "name": "米家经典方框<br />太阳镜",
+          "price": "99元",
+          "last": true
+        }
+      ]
+    ]
+  },
+  "videoList": [
+    {
+      "pic": "video7-1.png",
+      "title": "Redmi 10X系列发布会",
+      "title2": "Redmi 10X系列发布会"
+    },
+    {
+      "pic": "video7-2.png",
+      "title": "小米10 青春版 发布会"
+    },
+    {
+      "pic": "video7-3.png",
+      "title": "小米10 8K手机拍大片"
+    },
+    {
+      "pic": "video7-4.png",
+      "title": "小米10发布会"
+    }
+  ],
+  "links": {
+    "帮助中心": {
+      "item": ["账户管理", "购物指南", "订单操作"]
+    },
+    "服务支持": {
+      "item": ["售后政策", "自助服务", "相关下载"]
+    },
+    "线下门店": {
+      "item": ["小米之家", "服务网点", "授权体验店"]
+    },
+    "关于小米": {
+      "item": ["了解小米", "加入小米", "投资者关系"]
+    },
+    "关注我们": {
+      "item": ["新浪微博", "官方微信", "联系我们"]
+    },
+    "特色服务": {
+      "item": ["F码通道", "礼物码", "防伪查询"]
+    }
+  },
+  "footLinks": [
+    "小米商城",
+    "MIUI",
+    "米家",
+    "米聊",
+    "多看",
+    "游戏",
+    "路由器",
+    "米粉卡",
+    "政企服务",
+    "小米天猫店",
+    "小米集团隐私政策",
+    "小米商城隐私政策",
+    "小米商城用户协议",
+    "问题反馈",
+    "廉正举报",
+    "诚信合规",
+    "Select Location"
+  ]
+}
